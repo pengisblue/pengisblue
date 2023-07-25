@@ -4,7 +4,7 @@
 
 ## repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pengisblue&repo=TIL&show_owner=true&theme=react&description)](https://github.com/pengisblue/TIL)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pengisblue&repo=AlgorithmStudy&theme=react)](https://github.com/AlgorithmStudy)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pengisblue&repo=AlgorithmStudy&theme=react&renew)](https://github.com/pengisblue/AlgorithmStudy)
 
 <!---
 pengisblue/pengisblue is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
