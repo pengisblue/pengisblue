@@ -2,7 +2,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pengisblue&layout=compact&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pengisblue&repo=TIL&show_owner=true&theme=react&hide_description=false)](https://github.com/pengisblue/TIL)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pengisblue&repo=AlgorithmStudy&show_owner=true&theme=react)](https://github.com/pengisblue/AlgorithmStudy)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pengisblue&repo=AlgorithmStudy&show_owner=true&theme=react&hide_description=false)](https://github.com/pengisblue/AlgorithmStudy)
 
 <!---
 pengisblue/pengisblue is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
