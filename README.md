@@ -3,10 +3,6 @@
 
 <a href="https://github.com/pengisblue/TIL">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pengisblue&repo=TIL&show_owner=true&theme=react" />
-</a>
-<a href="https://github.com/pengisblue/AlgorithmStudy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pengisblue&repo=AlgorithmStudy&show_owner=true&theme=react" />
-</a>
 
 <!---
 pengisblue/pengisblue is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
