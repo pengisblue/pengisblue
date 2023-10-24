@@ -7,15 +7,16 @@
 
 ## repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pengisblue&repo=TIL&show_owner=true&theme=react&description)](https://github.com/pengisblue/TIL)
+<!---
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pengisblue&repo=AlgorithmStudy&theme=nightowl)](https://github.com/pengisblue/AlgorithmStudy)
-
+--->
 <!---
 <div align="center"
 <a href="https://github.com/pengisblue/AlgorithmStudy">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=pengisblue&repo=AlgorithmStudy&0"/>
 </a>
 </div>
-
+--->
 <!---
 pengisblue/pengisblue is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
