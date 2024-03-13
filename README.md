@@ -7,6 +7,7 @@
 
 ## repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pengisblue&repo=TIL&show_owner=true&theme=react&description)](https://github.com/pengisblue/TIL)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pengisblue&repo=portfolio&show_owner=true&theme=react&description)](https://github.com/pengisblue/portfolio)
 <!---
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pengisblue&repo=AlgorithmStudy&theme=nightowl)](https://github.com/pengisblue/AlgorithmStudy)
 --->
